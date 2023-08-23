@@ -29,16 +29,16 @@ console.log(karim.aboutMe());
 
 Here are some of the tools and technologies I love working with:
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
-    <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50">
-    <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" width="50" height="50">
-    <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50">
-    <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50">
-    <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50">
-    <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50">
-    <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50">
-    <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50">
-</div>
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50" style="padding: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" width="50" height="50" style="padding: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50" style="padding: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50" style="padding: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50" style="padding: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50" style="padding: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50" style="padding: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50" style="padding: 10px;">
+</p>
 
 
 Feel free to explore my repositories to see some of the projects I've been working on!
