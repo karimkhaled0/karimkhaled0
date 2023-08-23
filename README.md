@@ -2,21 +2,10 @@
 
 I'm a passionate Software Engineer with expertise in building web applications using React, Next.js, and Node.js.
 
-<div style="text-align: center; margin-top: 20px;">
-    📧 **Email:** [karimkhaledelmawe@gmail.com](mailto:karimkhaledelmawe@gmail.com)
-</div>
-
-<div style="text-align: center;">
-    📄 **Resume:** [View My Resume](https://docs.google.com/document/d/1JOPXu8fxs2WfmQsEOkvHwhEfknSWOv26/edit)
-</div>
-
-<div style="text-align: center;">
-    🌐 **LinkedIn:** [Connect with me on LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/karimkhaled0/))
-</div>
-
-<div style="text-align: center;">
-    📝 **Portfolio:** [Check out my Portfolio](https://www.karimkhaled.software/)
-</div>
+- 📧 **Email:** [karimkhaledelmawe@gmail.com](mailto:karimkhaledelmawe@gmail.com)
+- 📄 **Resume:** [View My Resume](https://docs.google.com/document/d/1JOPXu8fxs2WfmQsEOkvHwhEfknSWOv26/edit)
+- 🌐 **LinkedIn:** [Connect with me on LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/karimkhaled0/))
+- 📝 **Portfolio:** [Check out my Portfolio](https://www.karimkhaled.software/)
 
 ## About Me
 
