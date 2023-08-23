@@ -26,7 +26,7 @@ console.log(karim.aboutMe());
 ## Tools and Technologies
 
 Here are some of the tools and technologies I love working with:
-
+<div style="text-align: center; padding: 10px;">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" width="50" height="50">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50">
@@ -35,6 +35,6 @@ Here are some of the tools and technologies I love working with:
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50">
-
+</div>
 Feel free to explore my repositories to see some of the projects I've been working on!
 
