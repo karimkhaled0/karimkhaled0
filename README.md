@@ -1,34 +1,39 @@
-<p align="center">
-  <img src="your-profile-image.jpg" alt="Your Name" width="200" height="200">
-</p>
+# Hi there, I'm Karim Khaled! 👋
 
-<h1 align="center">Hi, I'm Karim Khaled 👋</h1>
+I'm a passionate Software Engineer with expertise in building web applications using React, Next.js, and Node.js.
 
-<p align="center">Software Engineer | React | Next.js | Node.js</p>
+📧 **Email:** [karimkhaledelmawe@gmail.com](mailto:karimkhaledelmawe@gmail.com)
+📄 **Resume:** [View My Resume](https://docs.google.com/document/d/1JOPXu8fxs2WfmQsEOkvHwhEfknSWOv26/edit)
+🌐 **LinkedIn:** [Connect with me on LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/karimkhaled0/))
+📝 **Portfolio:** [Check out my Portfolio](https://www.karimkhaled.software/)
 
-<p align="center">
-  <a href="mailto:karimkhaledelmawe@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-karimkhaledelmawe%40gmail.com-blue?style=flat-square&logo=gmail">
-  </a>
-  <a href="link-to-your-resume.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-Download-brightgreen?style=flat-square">
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-  </a>
-</p>
+## About Me
 
-<h2 align="center">About Me</h2>
+function Karim() {
+    this.name = "Karim";
+    this.location = "6 of October City";
+    this.interests = ["coding", "technology", "innovation"];
+    this.aboutMe = () => {
+        return `Hi, I'm ${this.name}. I live in ${this.location}. I'm passionate about ${this.interests.join(', ')} and always excited to explore new horizons in the tech world.`;
+    };
+}
 
-<p align="center">
-  I'm a passionate software engineer with expertise in React, Next.js, and Node.js. I enjoy creating web applications that solve real-world problems and deliver exceptional user experiences. With a strong foundation in software development and a love for learning, I'm always eager to tackle new challenges and explore emerging technologies.
-</p>
+const karim = new Karim();
+console.log(karim.aboutMe());
 
-<h2 align="center">Tools and Technologies</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <!-- Add more technologies as needed -->
-</p>
+## Tools and Technologies
+
+Here are some of the tools and technologies I love working with:
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-lightblue?style=flat&logo=typescript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+Feel free to explore my repositories to see some of the projects I've been working on!
+
