@@ -29,7 +29,7 @@ console.log(karim.aboutMe());
 
 Here are some of the tools and technologies I love working with:
 
-<div style="text-align: center;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
     <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="50" height="50">
     <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next.js" width="50" height="50">
     <img style="padding: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50" height="50">
