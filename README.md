@@ -9,10 +9,11 @@ I'm a passionate Software Engineer with expertise in building web applications u
 
 ## About Me
 
+```javascript
 function Karim() {
     this.name = "Karim";
     this.location = "6 of October City";
-    this.interests = ["coding", "technology", "innovation"];
+    this.interests = ["coding", "technology", "innovation"]; // Fixed the quotes here
     this.aboutMe = () => {
         return `Hi, I'm ${this.name}. I live in ${this.location}. I'm passionate about ${this.interests.join(', ')} and always excited to explore new horizons in the tech world.`;
     };
@@ -20,6 +21,7 @@ function Karim() {
 
 const karim = new Karim();
 console.log(karim.aboutMe());
+
 
 
 ## Tools and Technologies
