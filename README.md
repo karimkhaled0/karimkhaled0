@@ -1,7 +1,9 @@
 # Hi there, I'm Karim Khaled! 👋
 
+<p align="center">
 ![Coding Guy](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71515&width=435&lines=I+code+because+I+can+create+something+from+nothing.;Debugging+is+my+cardio.)](https://git.io/typing-svg)
+</p>
 
 I'm a passionate Software Engineer with expertise in building web applications using React, Next.js, and Node.js.
 
