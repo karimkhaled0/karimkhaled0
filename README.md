@@ -21,21 +21,60 @@ function Karim() {
 
 const karim = new Karim();
 console.log(karim.aboutMe());
-```javascript
-
+```
 
 ## Tools and Technologies
 
 Here are some of the tools and technologies I love working with:
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-lightblue?style=flat&logo=typescript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" width="100" height="100" alt="React"></a>
+      <br>
+      React
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" width="100" height="100" alt="Next.js"></a>
+      <br>
+      Next.js
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="100" alt="Node.js"></a>
+      <br>
+      Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="100" alt="JavaScript"></a>
+      <br>
+      JavaScript
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/-TypeScript-lightblue?style=for-the-badge&logo=typescript&logoColor=black" width="100" height="100" alt="TypeScript"></a>
+      <br>
+      TypeScript
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="100" alt="MongoDB"></a>
+      <br>
+      MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="100" height="100" alt="PostgreSQL"></a>
+      <br>
+      PostgreSQL
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100" height="100" alt="Git"></a>
+      <br>
+      Git
+    </td>
+  </tr>
+</table>
 
 Feel free to explore my repositories to see some of the projects I've been working on!
 
