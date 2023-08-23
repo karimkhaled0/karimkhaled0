@@ -21,7 +21,7 @@ function Karim() {
 
 const karim = new Karim();
 console.log(karim.aboutMe());
-
+```javascript
 
 
 ## Tools and Technologies
