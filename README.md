@@ -15,7 +15,7 @@ I'm a passionate Software Engineer with expertise in building web applications u
 - 📧 **Email:** [karimkhaledelmawe@gmail.com](mailto:karimkhaledelmawe@gmail.com)
 - 📄 **Resume:** [View My Resume](https://docs.google.com/document/d/1JOPXu8fxs2WfmQsEOkvHwhEfknSWOv26/edit)
 - 🌐 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/karimkhaled0/)
-- 📝 **Portfolio:** [Check out my Portfolio](https://www.karimkhaled.software/)
+- 📝 **Portfolio:** [Check out my Portfolio](karimkhaled.me)
 
 ## About Me
 
